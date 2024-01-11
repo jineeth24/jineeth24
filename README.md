@@ -3,7 +3,10 @@
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
-- LinkedIn:<a href"linkedin.com/in/jineeth-e">
+###connect with me
+<div>
+  <a href"linkedin.com/in/jineeth-e"></a>
+</div>
 
 
 
