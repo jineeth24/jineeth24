@@ -9,7 +9,7 @@
   <a href="https://github.com/jineeth24">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="www.linkedin.com/in/jineeth-e">
+   <a href="https://www.linkedin.com/in/jineeth-e/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href ="https://leetcode.com/jineeth">
