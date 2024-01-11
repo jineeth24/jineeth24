@@ -5,7 +5,7 @@
 - 📫 How to reach me .
 ###connect with me
 <div>
-  <a href"linkedin.com/in/jineeth-e"></a>
+  <a href"www.linkedin.com/in/jineeth-e"></a>
 </div>
 
 
